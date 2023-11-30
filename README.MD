@@ -72,9 +72,19 @@ https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
 
 Memory Heap is a place to allocate, use, and remove memory as required. It is used to store information so that we can use our memory appropriately.
 
-![MemoryHeap](https://github.com/MunnazzahAslam/javascript-advanced-concepts/blob/main/memory-heap.png)
+![MemoryHeap](https://github.com/MunnazzahAslam/javascript-advanced-concepts/blob/main/memory-heap.png){:width="100px" height="100px"}
 
+# 10. What is Call Stack?
 
+Call Stack keeps track of where we are in the code so that the program runs in order.
+
+In the call stack, items are stored in a 'first-in, last-out' manner, following the principle of Last In, First Out (LIFO). As functions are executed, they are added to the top of the call stack, and when a function completes its execution, it is removed from the stack.
+
+# 11. What is Stack Overflow?
+
+When you keep calling a functions that are nested inside each other.
+
+![MemoryHeap](https://github.com/MunnazzahAslam/javascript-advanced-concepts/blob/main/stack%20overflow.png){:width="500px" height="300px"}
 
 
 
