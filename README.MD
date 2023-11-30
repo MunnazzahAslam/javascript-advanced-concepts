@@ -16,18 +16,18 @@ Abstract Syntax Tree is a type of data structure produced by the process of pars
 
 AST is a type of tree graph of the code structure. Certain things are implicit in the structure hence the name abstract.
 
-#4. What is an Interpreter?
+# 4. What is an Interpreter?
 
 An interpreter directly executes each line of code one by one, without needing them to be compiled into a machine language program.
 
-#5. What is a compiler? 
+# 5. What is a compiler? 
 
 The compiler works ahead of time. It takes JavaScript code and converts it into a language that is easier for the browser to understand.
 
 Babel is a compiler that converts modern JS code into old JS code.
 Typescript is a superset of JavaScript that compiles down to JavaScript.
 
-# 6. How do all these things work in the modern engines?
+# 6. How do all these things work in modern engines?
 
 In modern engines, the interpreter starts by reading the code line by line, and the profiler watches frequently used codes and flags then passes it to the compiler to optimize it.
 
