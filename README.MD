@@ -68,6 +68,12 @@ moiz
 
 https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
 
+# 9. What is a Memory Heap?
+
+Memory Heap is a place to allocate, use, and remove memory as required. It is used to store information so that we can use our memory appropriately.
+
+![MemoryHeap](https://github.com/MunnazzahAslam/javascript-advanced-concepts/blob/main/memory-heap.png)
+
 
 
 
